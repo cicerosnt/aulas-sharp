@@ -1,0 +1,10 @@
+A:\OneDrive - Fatec Centro Paula Souza\Semester_2\Linguagens de Programação - Marco\Classes\up-git\crud-xml\crud-xml\crud-xml\bin\Debug\crud-xml.exe.config
+A:\OneDrive - Fatec Centro Paula Souza\Semester_2\Linguagens de Programação - Marco\Classes\up-git\crud-xml\crud-xml\crud-xml\bin\Debug\crud-xml.exe
+A:\OneDrive - Fatec Centro Paula Souza\Semester_2\Linguagens de Programação - Marco\Classes\up-git\crud-xml\crud-xml\crud-xml\bin\Debug\crud-xml.pdb
+A:\OneDrive - Fatec Centro Paula Souza\Semester_2\Linguagens de Programação - Marco\Classes\up-git\crud-xml\crud-xml\crud-xml\obj\Debug\crud-xml.csproj.AssemblyReference.cache
+A:\OneDrive - Fatec Centro Paula Souza\Semester_2\Linguagens de Programação - Marco\Classes\up-git\crud-xml\crud-xml\crud-xml\obj\Debug\crud_xml.frmCrudXml.resources
+A:\OneDrive - Fatec Centro Paula Souza\Semester_2\Linguagens de Programação - Marco\Classes\up-git\crud-xml\crud-xml\crud-xml\obj\Debug\crud_xml.Properties.Resources.resources
+A:\OneDrive - Fatec Centro Paula Souza\Semester_2\Linguagens de Programação - Marco\Classes\up-git\crud-xml\crud-xml\crud-xml\obj\Debug\crud-xml.csproj.GenerateResource.cache
+A:\OneDrive - Fatec Centro Paula Souza\Semester_2\Linguagens de Programação - Marco\Classes\up-git\crud-xml\crud-xml\crud-xml\obj\Debug\crud-xml.csproj.CoreCompileInputs.cache
+A:\OneDrive - Fatec Centro Paula Souza\Semester_2\Linguagens de Programação - Marco\Classes\up-git\crud-xml\crud-xml\crud-xml\obj\Debug\crud-xml.exe
+A:\OneDrive - Fatec Centro Paula Souza\Semester_2\Linguagens de Programação - Marco\Classes\up-git\crud-xml\crud-xml\crud-xml\obj\Debug\crud-xml.pdb

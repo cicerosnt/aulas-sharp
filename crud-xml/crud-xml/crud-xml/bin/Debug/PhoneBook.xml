@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="PhoneBook" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="PhoneBook">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Matricula" type="xs:int" minOccurs="0" />
+                <xs:element name="Nome" type="xs:string" minOccurs="0" />
+                <xs:element name="Sobrenome" type="xs:string" minOccurs="0" />
+                <xs:element name="CPF" type="xs:string" minOccurs="0" />
+                <xs:element name="Celular" type="xs:string" minOccurs="0" />
+                <xs:element name="Fixo" type="xs:string" minOccurs="0" />
+                <xs:element name="E-mail" type="xs:string" minOccurs="0" />
+                <xs:element name="Empresa" type="xs:string" minOccurs="0" />
+                <xs:element name="Setor" type="xs:string" minOccurs="0" />
+                <xs:element name="Encarregado" type="xs:string" minOccurs="0" />
+                <xs:element name="Admissão" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <PhoneBook>
+    <Matricula>1</Matricula>
+    <Nome>Cícero</Nome>
+    <Sobrenome>Santos</Sobrenome>
+    <CPF>014.785.236-92</CPF>
+    <Celular>(17) 99769-3242</Celular>
+    <Fixo>(17) 9875-8585</Fixo>
+    <E-mail>cicero.dsantos@outlook.com.br</E-mail>
+    <Empresa>Matriz</Empresa>
+    <Setor>Admistração</Setor>
+    <Encarregado>J. Barros</Encarregado>
+    <Admissão>14/05/2022</Admissão>
+  </PhoneBook>
+  <PhoneBook>
+    <Matricula>2</Matricula>
+    <Nome>Pá</Nome>
+    <Sobrenome>Silva</Sobrenome>
+    <CPF>225.454.544-44</CPF>
+    <Celular>(54) 54545-4544</Celular>
+    <Fixo>(55) 5545-5454</Fixo>
+    <E-mail>sdfsdf</E-mail>
+    <Empresa>Matriz</Empresa>
+    <Setor>Admistração</Setor>
+    <Encarregado>Pá Filho</Encarregado>
+    <Admissão>12/15/4542</Admissão>
+  </PhoneBook>
+</NewDataSet>
